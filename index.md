@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Descripción general
 
-You can use the [editor on GitHub](https://github.com/TallerArgentinoCC/TallerArgentinoCC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+El Taller Argentino de Computación Científica (TAC²) tiene como objetivo reunir a estudiantes, docentes e investigadores que realizan contribuciones originales en el ámbito científico, en cualquiera de sus múltiples sub-disciplinas, utilizando como herramienta principal la programación científica para  realizar:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Simulaciones
+* Cálculos de alto desempeño
+* Ciencia de datos
+* Visualización de datos
 
-### Markdown
+El énfasis estará puesto en el uso de lenguajes de programación abiertos y gratuitos como Python, Julia y R.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Se espera lograr el intercambio de información, conocimientos y experiencias sobre herramientas computacionales abiertas, promoviendo  el desarrollo de la computación científica. La reunión en su modalidad de taller no solo permitirá la difusión de la disciplina, sino que generará un espacio para que estudiantes y jóvenes investigadores encuentren un ámbito de discusión adecuado y estimulante.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TallerArgentinoCC/TallerArgentinoCC.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Fecha
+25-26 de noviembre de 2019.
