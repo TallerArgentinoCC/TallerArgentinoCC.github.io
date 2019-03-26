@@ -2,7 +2,6 @@
 
 Valoramos la participación de cada persona en este evento y queremos que todes les asistentes tengan una experiencia agradable y satisfactoria. En consecuencia, se espera que todes les asistentes muestren respeto y cortesía a otres asistentes a lo largo de la conferencia y en todos los eventos de la conferencia.
 
-
 La organización del evento está determinada a proveer una conferencia libre de acoso para todes, sin importar género, orientación sexual, identidad y expresión de género, discapacidad, apariencia física, tamaño corporal, raza o religión. No toleramos ninguna forma de acoso de les participantes de la conferencia.
 
 Toda comunicación debe ser apropiada para una audiencia profesional incluyendo personas de diferentes culturas. El lenguaje y las imágenes sexuales no son apropiados durante la conferencia.
