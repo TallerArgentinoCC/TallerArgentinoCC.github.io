@@ -1,3 +1,7 @@
+.no-pad-bot .container .row p{
+    font-size: 18px;
+}
+
 @media screen and (max-width: 600px){
     .sponsor1{
         display: none;
