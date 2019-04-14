@@ -1,3 +1,7 @@
 .container .section p, ul{
-    font-size: 16px;
+    /* font-size: 16px; */
+}
+
+html {
+	font-size: 17px;
 }
