@@ -13,13 +13,22 @@
     </head>
 
     <body>
+        <ul id="dropdown1" class="dropdown-content">
+            <li><a href="ubicacion.html">Ubicacion</a></li>
+            <li><a href="transporte.html">Transporte</a></li>
+            <!-- <li class="divider"></li> -->
+        </ul>
+        <ul id="dropdown2" class="dropdown-content">
+            <li><a href="ubicacion.html">Ubicacion</a></li>
+            <li><a href="transporte.html">Transporte</a></li>
+        </ul>
         <nav class="blue darken-4" role="navigation">
             <div class="nav-wrapper container"><a id="logo-container" href="index.html" class="brand-logo">TAC<sup>2</sup></a>
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.html">Inicio</a></li>
                 <li><a href="descripcion.html">Descripción</a></li>
                 <li><a href="hospedaje.html">Hospedaje</a></li>
-                <li><a href="transporte.html">Transporte</a></li>
+                <li><a class="dropdown-button" href="#!" data-target="dropdown1">Como llegar?<i class="material-icons right">arrow_drop_down</i></a></li>
                 <li><a href="cronograma.html">Cronograma</a></li>
                 <li><a href="conducta.html">Codigo de conducta</a></li>
             </ul>
@@ -28,7 +37,7 @@
                 <li><a href="index.html">Inicio</a></li>
                 <li><a href="descripcion.html">Descripción</a></li>
                 <li><a href="hospedaje.html">Hospedaje</a></li>
-                <li><a href="transporte.html">Transporte</a></li>
+                <li><a class="dropdown-button" href="#!" data-target="dropdown2">Como llegar?<i class="material-icons right">arrow_drop_down</i></a></li>
                 <li><a href="cronograma.html">Cronograma</a></li>
                 <li><a href="conducta.html">Codigo de conducta</a></li>
             </ul>
@@ -63,5 +72,15 @@
           <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
           <script src="js/materialize.js"></script>
         <script src="js/init.js"></script>
+        <script>
+            $('.dropdown-button').dropdown({
+                inDuration: 300,
+                outDuration: 225,
+                constrain_width: false, // Does not change width of dropdown to that of the activator
+                gutter: 0, // Spacing from edge
+                alignment: 'left' // Displays dropdown with edge aligned to the left of button
+                }
+            );
+        </script>
     </body>
   </html>
